@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\projects\\PROJECT TIME TABLE MANAGEMENT\\TimeTableapi\\TimeTableapi.csproj",
+      "projectUniqueName": "D:\\github\\GLA-University-Timetable-Generator-System\\TimeTableapi\\TimeTableapi.csproj",
       "projectName": "TimeTableapi",
-      "projectPath": "D:\\Desktop\\projects\\PROJECT TIME TABLE MANAGEMENT\\TimeTableapi\\TimeTableapi.csproj",
+      "projectPath": "D:\\github\\GLA-University-Timetable-Generator-System\\TimeTableapi\\TimeTableapi.csproj",
       "packagesPath": "C:\\Users\\praty\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\projects\\PROJECT TIME TABLE MANAGEMENT\\TimeTableapi\\obj\\",
+      "outputPath": "D:\\github\\GLA-University-Timetable-Generator-System\\TimeTableapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\praty\\AppData\\Roaming\\NuGet\\NuGet.Config"

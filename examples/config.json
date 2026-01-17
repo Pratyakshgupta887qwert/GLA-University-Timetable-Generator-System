@@ -1,0 +1,27 @@
+{
+  "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+  "periods_per_day": 6,
+  "period_duration": 60,
+  "time_slots": {
+    "1": ["09:00", "10:00"],
+    "2": ["10:00", "11:00"],
+    "3": ["11:00", "12:00"],
+    "4": ["12:00", "13:00"],
+    "5": ["14:00", "15:00"],
+    "6": ["15:00", "16:00"]
+  },
+  "max_classes_per_day": 6,
+  "min_break_between_classes": 0,
+  "max_consecutive_classes": 3,
+  "prefer_morning_for_core": true,
+  "avoid_single_class_days": true,
+  "distribute_evenly": true,
+  "prefer_department_rooms": true,
+  "lab_courses_require_labs": true,
+  "optimization_weights": {
+    "no_gaps": 0.3,
+    "teacher_preference": 0.2,
+    "compact_schedule": 0.3,
+    "room_distance": 0.2
+  }
+}

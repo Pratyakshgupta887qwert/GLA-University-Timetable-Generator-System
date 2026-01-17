@@ -1,0 +1,42 @@
+[
+  {
+    "teacher_id": "T001",
+    "name": "Dr. Sharma",
+    "department": "Computer Science",
+    "specializations": ["Data Structures", "Algorithms"],
+    "unavailable_slots": [
+      {"day": "Monday", "period": 1, "start_time": "09:00", "end_time": "10:00"},
+      {"day": "Friday", "period": 6, "start_time": "15:00", "end_time": "16:00"}
+    ]
+  },
+  {
+    "teacher_id": "T002",
+    "name": "Dr. Patel",
+    "department": "Computer Science",
+    "specializations": ["Database", "Programming"]
+  },
+  {
+    "teacher_id": "T003",
+    "name": "Dr. Kumar",
+    "department": "Computer Science",
+    "specializations": ["Programming", "Software Engineering"]
+  },
+  {
+    "teacher_id": "T004",
+    "name": "Dr. Singh",
+    "department": "Mathematics",
+    "specializations": ["Calculus", "Algebra"]
+  },
+  {
+    "teacher_id": "T005",
+    "name": "Dr. Gupta",
+    "department": "Mathematics",
+    "specializations": ["Linear Algebra", "Statistics"]
+  },
+  {
+    "teacher_id": "T006",
+    "name": "Dr. Verma",
+    "department": "Physics",
+    "specializations": ["Mechanics", "Thermodynamics"]
+  }
+]

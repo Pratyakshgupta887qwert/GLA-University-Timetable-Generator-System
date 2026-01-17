@@ -1,0 +1,23 @@
+[
+  {
+    "section_id": "S001",
+    "name": "CS-A",
+    "department": "Computer Science",
+    "semester": 3,
+    "student_count": 55
+  },
+  {
+    "section_id": "S002",
+    "name": "CS-B",
+    "department": "Computer Science",
+    "semester": 3,
+    "student_count": 50
+  },
+  {
+    "section_id": "S003",
+    "name": "MA-A",
+    "department": "Mathematics",
+    "semester": 3,
+    "student_count": 45
+  }
+]

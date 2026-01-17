@@ -1,0 +1,58 @@
+[
+  {
+    "course_id": "CS101",
+    "name": "Data Structures",
+    "department": "Computer Science",
+    "hours_per_week": 3,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "CS102",
+    "name": "Algorithms",
+    "department": "Computer Science",
+    "hours_per_week": 3,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "CS103",
+    "name": "Database Systems",
+    "department": "Computer Science",
+    "hours_per_week": 3,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "CS104",
+    "name": "Programming Lab",
+    "department": "Computer Science",
+    "hours_per_week": 2,
+    "course_type": "lab"
+  },
+  {
+    "course_id": "MA101",
+    "name": "Calculus I",
+    "department": "Mathematics",
+    "hours_per_week": 4,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "MA102",
+    "name": "Linear Algebra",
+    "department": "Mathematics",
+    "hours_per_week": 3,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "PH101",
+    "name": "Physics I",
+    "department": "Physics",
+    "hours_per_week": 3,
+    "course_type": "theory"
+  },
+  {
+    "course_id": "PH102",
+    "name": "Physics Lab",
+    "department": "Physics",
+    "hours_per_week": 2,
+    "course_type": "lab"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "course_id": "CS101",
+    "section_id": "S001",
+    "teacher_id": "T001"
+  },
+  {
+    "course_id": "CS101",
+    "section_id": "S002",
+    "teacher_id": "T001"
+  },
+  {
+    "course_id": "CS102",
+    "section_id": "S001",
+    "teacher_id": "T002"
+  },
+  {
+    "course_id": "CS102",
+    "section_id": "S002",
+    "teacher_id": "T002"
+  },
+  {
+    "course_id": "CS103",
+    "section_id": "S001",
+    "teacher_id": "T003"
+  },
+  {
+    "course_id": "CS103",
+    "section_id": "S002",
+    "teacher_id": "T003"
+  },
+  {
+    "course_id": "CS104",
+    "section_id": "S001",
+    "teacher_id": "T002"
+  },
+  {
+    "course_id": "CS104",
+    "section_id": "S002",
+    "teacher_id": "T003"
+  },
+  {
+    "course_id": "MA101",
+    "section_id": "S001",
+    "teacher_id": "T004"
+  },
+  {
+    "course_id": "MA101",
+    "section_id": "S002",
+    "teacher_id": "T004"
+  },
+  {
+    "course_id": "MA101",
+    "section_id": "S003",
+    "teacher_id": "T004"
+  },
+  {
+    "course_id": "MA102",
+    "section_id": "S003",
+    "teacher_id": "T005"
+  },
+  {
+    "course_id": "PH101",
+    "section_id": "S001",
+    "teacher_id": "T006"
+  },
+  {
+    "course_id": "PH102",
+    "section_id": "S001",
+    "teacher_id": "T006"
+  }
+]

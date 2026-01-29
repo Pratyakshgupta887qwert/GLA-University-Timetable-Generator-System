@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeTableapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7822a1e5d664c8bf9511987bf0899732c87cc3eb")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e1b246360c60e1f65d1164afc634b3c57b34ac1")]
+>>>>>>> 2827631b184e16e45a2414efe42d35363991b0d4
 [assembly: System.Reflection.AssemblyProductAttribute("TimeTableapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeTableapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
